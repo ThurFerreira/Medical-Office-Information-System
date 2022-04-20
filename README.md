@@ -1,5 +1,5 @@
 # Sistema-de-Informa-o-para-Clinica-Medica
-Trabalho realizado no primeiro semestre do curso superior de Sistemas de Informação na Faculdade Federal de Uberlândia. O trabalho tem como requisitos de suprir as necessidades de um consultório médico, realizando o agendamento e o cadastro de pacientes que desejam utilizar do serviço."
+Trabalho realizado no primeiro semestre do curso superior de Sistemas de Informação na Universidade Federal de Uberlândia. O trabalho tem como requisitos de suprir as necessidades de um consultório médico, realizando o agendamento e o cadastro de pacientes que desejam utilizar do serviço."
 
 Com o menu dividido entre 8 opções de interação, temos:
     
