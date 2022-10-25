@@ -1,22 +1,22 @@
 # Sistema-de-Informacao-para-Clinica-Medica
-Trabalho realizado no primeiro semestre do curso superior de Sistemas de Informação na Universidade Federal de Uberlândia. O trabalho tem como requisitos de suprir as necessidades de um consultório médico, realizando o agendamento e o cadastro de pacientes que desejam utilizar do serviço."
+Work carried out in the first semester of the Information Systems course at the Federal University of Uberlândia. The work has as requirements to meet the needs of a medical office, performing the scheduling and registration of patients who wish to use the service."
 
-Com o menu dividido entre 8 opções de interação, temos:
+With the menu divided by 8 options, we have:
     
-    OBJETIVOS   :   
-                        1.  CADASTRO/AGENDAMENTO DE PACIENTES.
-                            .   Ter uma variável com os horários vagos dentro de uma função para cada especialidade;
-                            .   Caso o paciente opte por ortopedia, marcar cosulta para o ortopedista;
-                            .   Caso o paciente opte por fisioterapia, marcar colsuta para o fisioterapeuta;
-                            .   Caso o paciente opte por exame, marcar exame;            
-                            .   Mostrar as informações do paciente e confirmar o agendamento;
-                            .   Apresentar essas opções ao usuário e armazenar a escolhida, se disponível na struct dados_dos_pacientes;
-                            .   Ordenar os dados dos pacientes em ordem alfabética e depois armazenar em um arquivo.
+   GOALS   :
+                        1. PATIENT REGISTRATION/SCHEDULE.
+                            . Have a variable with the vacant hours within a function for each specialty;
+                            . If the patient opts for orthopedics, make an appointment with the orthopedist;
+                            . If the patient opts for physical therapy, schedule a consultation with the physical therapist;
+                            . If the patient opts for an exam, schedule an exam;
+                            . Show patient information and confirm the appointment;
+                            . Present these options to the user and store the chosen one, if available in the patient_data struct;
+                            . Sort patient data alphabetically and then store in a file.
                         
-                        2.  APRESENTAÇÃO DE CADASTROS/AGENDAMENTOS P/ ORTOPEDISTA. (juntamente ao horário)
-                        3.  APRESENTAÇÃO DE CADASTROS/AGENDAMENTOS P/ FISIOTERAPEUTA. (juntamente ao horário)
-                        4.  APRESENTAÇÃO DE CADASTROS/AGENDAMENTOS P/ EXAME. (juntamente ao horário)
-                        5.  Correção dos Dados digitados. 
-                        6.  CANCELAMENTO DE CONSULTA.
-                        7.  Backup.
-                        0.  SAIR. 
+                        2. SUBMISSION OF REGISTRATIONS/SCHEDULES FOR ORTHOPEDISTS. (along with the time)
+                        3. SUBMISSION OF REGISTRATIONS/SCHEDULES FOR PHYSIOTHERAPIST. (along with the time)
+                        4. SUBMISSION OF REGISTRATIONS/SCHEDULES FOR EXAMINATION. (along with the time)
+                        5. Correction of data entered.
+                        6. CONSULTATION CANCELLATION.
+                        7. Backup.
+                        0. EXIT.
