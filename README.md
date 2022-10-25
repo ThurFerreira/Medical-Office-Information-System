@@ -1,4 +1,4 @@
-# Sistema-de-Informacao-para-Clinica-Medica
+## Information System for a Medical office
 Work carried out in the first semester of the Information Systems course at the Federal University of Uberlândia. The work has as requirements to meet the needs of a medical office, performing the scheduling and registration of patients who wish to use the service."
 
 With the menu divided by 8 options, we have:
